@@ -1,0 +1,8 @@
+[0220/074355.581:ERROR:process_info.cc(359)] UncheckedAllocate
+[0221/174255.073:ERROR:process_info.cc(359)] UncheckedAllocate
+[0221/174255.154:ERROR:process_info.cc(359)] UncheckedAllocate
+[0221/174255.779:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0221/174255.780:ERROR:exception_snapshot_win.cc(98)] thread ID 7228 not found in process
+[0222/084239.675:ERROR:process_info.cc(359)] UncheckedAllocate
+[0222/141148.199:ERROR:process_info.cc(359)] UncheckedAllocate
+[0222/141203.213:ERROR:process_info.cc(359)] UncheckedAllocate
